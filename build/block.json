@@ -1,17 +1,14 @@
 {
-  "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 3,
-  "name": "create-block/boilerplate",
-  "version": "0.1.0",
-  "title": "Boilerplate",
+  "name": "blocks-course/todo-list",
+  "title": "To Do List",
   "category": "widgets",
-  "icon": "smiley",
-  "description": "Example block scaffolded with Create Block tool.",
-  "example": {},
+  "icon": "editor-ul",
+  "description": "Display and edit todos in the data store",
   "supports": {
     "html": false
   },
-  "textdomain": "boilerplate",
+  "textdomain": "todo-list",
   "editorScript": "file:./index.js",
   "editorStyle": "file:./index.css",
   "style": "file:./style-index.css",

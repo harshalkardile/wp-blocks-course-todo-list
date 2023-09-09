@@ -19,7 +19,6 @@
 	"stylelint": {
 		"extends": "@wordpress/stylelint-config/scss"
 	},
-
 	"devDependencies": {
 		"@wordpress/eslint-plugin": "^15.1.0",
 		"@wordpress/prettier-config": "^2.24.0",
